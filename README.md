@@ -15,6 +15,27 @@
 
 <div align="left">
   <a href="https://github.com/cl4r4mor4is">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cl4r4mor4is&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cl4r4mor4is&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
+<table class="ble">
+ 
+<tr>
+<td align="center" valign="middle" id="cel11" class="bla">X</td>
+<td align="center" valign="middle" id="cel12" class="bla">Y</td>
+<td align="center" valign="middle" id="cel13" class="bla">Y</td>
+</tr>
+ 
+<tr>
+<td align="center" valign="middle" id="cel21" class="bla">X</td>
+<td align="center" valign="middle" id="cel22" class="bla">Y</td>
+<td align="center" valign="middle" id="cel23" class="bla">O</td>
+</tr>
+ 
+<tr>
+<td align="center" valign="middle" id="cel31" class="bla">X</td>
+<td align="center" valign="middle" id="cel32" class="bla">O</td>
+<td align="center" valign="middle" id="cel33" class="bla">O</td>
+</tr>
+ 
+</table>  
