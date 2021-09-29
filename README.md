@@ -1,8 +1,6 @@
-@cl4r4m0r41s
-Olá, seja bem vindo.
+####OLá, me chamo Clara Morais!
 
-Me chamo Clara Morais, estudante do curso de Sistemas de Informação do Centro Universitário de Juazeiro do Norte.
-
-[![Linkedin Badge](https://shields.io/badge/Linkedin-Clara%20Morais-informational?logo=Linkedin&logoColor=informational&style=flat-square&link=https://www.linkedin.com/in/claramorais40/)](https://www.linkedin.com/in/claramorais40/)
-
-[![Gmail Badge](https://shields.io/badge/Gmail-claramorais40@gmail.com-red?logo=Gmail&logoColor=red&style=flat-square)](mailto:claramorais40@gmail.com)
+<div align="left">
+  <a href="https://github.com/cl4r4mor4is">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cl4r4mor4is&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+</div>
