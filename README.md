@@ -21,7 +21,7 @@
   
 <img align="center" alt="PostgreSQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   
-<img align="center" alt="SQLite" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg">
+<img align="center" alt="Redis" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg">
   
 <img align="center" alt="MongoDB" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   
@@ -29,8 +29,9 @@
 
 </br></br>
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/cl4r4mor4is">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cl4r4mor4is&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=cl4r4mor4is&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cl4r4mor4is&layout=compact&theme=cobalt"/>
 </div>
 
